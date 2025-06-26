@@ -1,18 +1,10 @@
 # BitbendOS
 
-
-
 **BitbendOS** is an OS for your apps — a platform where your application logic, data, and real-time updates live together, all in one place. No servers to manage, no complex infrastructure. Just publish your code and go
-
-
-
 
 > **Build apps. Not infrastructure.**
 
 ## ✨ What is BitbendOS?
-
-
-
 
 BitbendOS is a reimagined backend runtime built for modern application development. It combines:
 
@@ -30,17 +22,3 @@ Think of it like a database, server, and real-time engine — all merged into a 
 - **Zero Infrastructure**: No servers, no scaling configs — just deploy.
 - **Consistent and Durable**: ACID transactions and reliable storage.
 - **Live Collaboration-Ready**: Ideal for multiplayer apps, dashboards, and more.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
